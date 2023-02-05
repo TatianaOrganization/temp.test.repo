@@ -110,7 +110,7 @@ public class AddPage extends HttpServlet {
      */
     @Override
     public String getServletInfo() {
-        return "Short description";
+        return "Short description short description  ";
     }// </editor-fold>
 
 }
